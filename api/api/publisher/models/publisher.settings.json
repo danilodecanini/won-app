@@ -1,6 +1,6 @@
 {
   "kind": "collectionType",
-  "collectionName": "Distribuidora",
+  "collectionName": "publishers",
   "info": {
     "name": "publisher"
   },

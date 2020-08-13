@@ -1,6 +1,6 @@
 {
   "kind": "collectionType",
-  "collectionName": "Desenvolvedor",
+  "collectionName": "developers",
   "info": {
     "name": "developer"
   },
