@@ -5,7 +5,7 @@ import { ButtonProps } from '.'
 
 type WrapperProps = {
   hasIcon: boolean
-} & Pick<ButtonProps, 'size' | 'fullWidth'>
+} & Pick<ButtonProps, 'size' | 'fullWidth' | 'minimal'>
 
 const WrapperModifiers = {
   small: (theme: DefaultTheme) => css`
